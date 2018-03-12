@@ -57,3 +57,22 @@ typings/
 # dotenv environment variables file
 .env
 
+#Build
+public/css/main.css
+
+# API keys and secrets
+.env
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/**/*
+
+# Ignore reports folder
+reports
